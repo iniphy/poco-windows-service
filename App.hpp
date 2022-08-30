@@ -1,7 +1,3 @@
-//
-// Created by Quepas on 30.08.2022.
-//
-
 #ifndef POCO_WINDOWS_SERVICE_APP_H
 #define POCO_WINDOWS_SERVICE_APP_H
 
